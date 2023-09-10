@@ -1,0 +1,24 @@
+[
+  {
+    "placeName": "Red Fort",
+    "description": " The majestic Red Fort stands as a testament to the architectural legacy of Mughals. This UNESCO World Heritage Site is built from fine red sandstone, and is also famous as Qila-e-Mubaraq. It is replete with beautiful palaces, pavilions and mosques.",
+    "timings":"6:30am to 11:30pm ",
+    "entryFee": "₹35 for Indians,₹500 for Foreigners ",
+    "bestTime":"November to March"
+  },
+  {
+    "placeName": "India Gate",
+    "description": "The India Gate is a war memorial located near the Rajpath on the eastern edge of the ceremonial axis of New Delhi, formerly called duty path. It commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during the World War I.",
+    "timings": "Morning to Evening",
+    "entryFee": "Free",
+    "bestTime": "Any Month 7:00pm-9:30pm"
+  },
+  {
+    "placeName": "Lotus Temple",
+    "description": "The Lotus Temple is a Baháʼí House of Worship. Notable for its flowerlike shape, it is a prominent attraction in the city. The building is made up of 27 free-standing marble petals arranged to form the 9 sides of the temple.",
+    "timings": "Tuesday to Sunday: Summer=9:00am to 7:00pm, Winter=9:00am to 5:30pm",
+    "entryFee" :"Free",
+    "bestTime": "October to March"
+  }
+  
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "placeName":"Charminar",
+    "description":"The Charminar is a mosque and monument which was built to acknowledge the elimination of the plague which had affected the entire city immensely during  that era. It is famous for its square shaped structure with four pillars and intricate carvings.",
+    "timings":"9:30am to 5:30pm",
+    "entryFee":"₹20 for Indians and ₹250 for Foreigners",
+    "bestTime":"October to March"
+  },
+  {
+    "placeName":"Golconda Fort",
+    "description":"Golconda Fort is a historic fortress and ruined city located in the western outskirts of Hyderabad. The inner fort contains ruins of palaces, mosques and a hill top pavilion. Golconda fort is undoubtedly one of most magnificent fortress complexes in India.",
+    "timings":"9:00am to 5:30pm",
+    "entryFee":"₹25 for Indians and ₹200 for Foreigners. Free for children below 15yrs",
+    "bestTime":"September to March during the evening hours."
+  },
+  {
+    "placeName":"Salarjung Museum",
+    "description":"The Salar Jung Museum is an art museum which has a unique distinction as the third largest museum in India. It also has a worldwide fame for its biggest one-man collections of antiques. It is widely known in India for its prized collections dating back to different civilizations.",
+    "timings":"10:00am to 5:00pm. Except Fridays on which it is closed.",
+    "entryFee":"₹20 for Indians and ₹500 for Foreigners",
+    "bestTime":"Winter season"
+  }
+
+]
